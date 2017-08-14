@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ang1 App', () => {
+describe('angular-firebase-toh App', () => {
   let page: AppPage;
 
   beforeEach(() => {
